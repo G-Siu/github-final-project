@@ -7,4 +7,6 @@ Input:<br />
     r, annual rate of interest<br />
 </ul>
 Output:<br />
->simple interest = p*t*r
+<ul>
+    simple interest = p*t*r
+</ul>
